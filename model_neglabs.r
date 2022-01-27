@@ -5,9 +5,9 @@
 # MAGIC 
 # MAGIC This code links the newly reported negative lab test results to the existing negative test results and deduplicates the new test results that did not link to existing results.
 # MAGIC 
-# MAGIC ## Created by: Matt Doxey
-# MAGIC ## Created on: 03/2021
-# MAGIC ## Updated: 08/2021
+# MAGIC Created by: Matt Doxey
+# MAGIC Created on: 03/2021
+# MAGIC Updated: 08/2021
 
 # COMMAND ----------
 
